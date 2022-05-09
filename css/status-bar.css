@@ -1,0 +1,31 @@
+/*status bar*/
+.status-bar {
+    display: flex;
+    justify-content: center;
+    padding: 5px 3px;
+    cursor: default;
+}
+
+.status-bar__column {
+    width: 33%;
+}
+
+.status-bar__column:first-child span {
+    margin-right: 5px;
+}
+
+.status-bar__column:nth-child(2) {
+    display: flex;
+    justify-content: center;
+}
+
+.status-bar__column:last-child {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.status-bar__column .fa-battery-three-quarters {
+    margin: 0px 5px;
+}
+/*box가 3개일 때 첫번째-> 왼쪽, 두번째->가운데, 세번째->오른쪽 해서 정렬*/
