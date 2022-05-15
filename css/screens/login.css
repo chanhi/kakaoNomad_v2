@@ -1,6 +1,6 @@
 /*index header*/
 .welcome-header {
-    margin: 90px 0px;
+    margin: 111px 0px 90px 0px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -54,6 +54,6 @@
 #login-form a {
     text-align: center;
     text-decoration: none;
-    color: inherit;/*inherit: 상속*/
+    /*color: inherit; inherit: 상속*/
     font-size: 13px;
 }
