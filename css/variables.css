@@ -1,3 +1,7 @@
 :root {
+    /* Color */
     --yellow: #fae100;
+    
+    /* Size */
+    --horizontal-space: 46px 25px 25px 25px;
 }
