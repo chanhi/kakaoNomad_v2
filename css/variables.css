@@ -1,8 +1,12 @@
 :root {
     /* Color */
     --yellow: #fae100;
+    --main-grey: rgb(189, 189, 189);
     
     /* Size */
     --horizontal-space: 46px 25px 25px 25px;
     --horizontal-spane__avatar: 25px;
+
+    /* Border */
+    --border-main: 1px solid rgba(0, 0, 0, 0.2);
 }

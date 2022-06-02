@@ -12,6 +12,7 @@
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 /*Google Font*/
 body {
@@ -21,4 +22,8 @@ body {
 
 .main-screen {
     padding: var(--horizontal-spane__avatar);
+}
+
+.relative__parent {
+    position: relative;
 }
