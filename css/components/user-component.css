@@ -54,3 +54,18 @@
     margin-bottom: 10px;
     display: block;
 }
+
+.user-component__playList {
+    border: 2px solid #52e064;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+}
+
+.user-component__playList span {
+    opacity: 0.6;
+}
+
+.user-component__playList i {
+    font-size: 12px;
+}

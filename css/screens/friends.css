@@ -16,13 +16,13 @@
     padding: var(--horizontal-spane__avatar);
 }
 
-.friends-screen__channel {
+.friends-screen__friend {
     margin-top: 25px;
     border-top: var(--border-main);
     padding-top: 15px;
 }
   
-.friends-screen__channel-header {
+.friends-screen__friend-header {
     margin-bottom: 30px;
     display: flex;
     justify-content: space-between;
