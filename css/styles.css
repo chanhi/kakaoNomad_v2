@@ -19,6 +19,9 @@
 @import "screens/more.css";
 @import "screens/settings.css";
 @import "screens/chat.css";
+@import "screens/music.css";
+@import "screens/player.css";
+
 
 /*Google Font*/
 body {

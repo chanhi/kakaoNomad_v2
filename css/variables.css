@@ -9,4 +9,7 @@
 
     /* Border */
     --border-main: 1px solid rgba(0, 0, 0, 0.2);
+    --main-box__shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    
+    --font-grey: 0.6
 }
